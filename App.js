@@ -58,9 +58,9 @@ export default class App extends React.Component {
             });
           }}
           // Custom active item style
-          // activeItemStyle={styles.activeItemStyle}
+          activeItemStyle={styles.activeItemStyle}
           // Custom item style
-          // itemStyle={styles.itemStyle}
+          itemStyle={styles.itemStyle}
         />
       </View>
     );
